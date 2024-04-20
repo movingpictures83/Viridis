@@ -1,0 +1,2 @@
+Prefix plugins/Viridis/example/
+Plugin Viridis inputfile UCI.csv outputfile output.png
